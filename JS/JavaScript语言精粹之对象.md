@@ -27,5 +27,5 @@ var obj = {
 　　关于for-in 的问题读到了两篇文章，[for in的缺陷](http://www.cnblogs.com/snandy/archive/2011/03/03/1970132.html)中写到
 对于重写的内置属性如重写obj的toString属性，在IE6/7/8下不会被for-in到，而我在本地试了下是可以被遍历到的，但是这种情况在高程第三
 版的第153页写到应该也是不能遍历到的，所以这种情况是怎么回事还没有搞清，不知道是我的IE浏览器的问题。。。。另一篇是[各浏览器中for
-in顺序的差异](http://www.cnblogs.com/snandy/archive/2011/03/29/1998714.html)，可以参考下。
+in顺序的差异](http://www.cnblogs.com/snandy/archive/2011/03/29/1998714.html)，可以参考下。　　
 　　以上是对该书中的关于JS语法中对象的总结，对于JS来说，一切皆对象，因此知识点还是很多的，需要不断积累总结。
