@@ -36,13 +36,13 @@
       </file>
       <file leaf-file-name="JS语言精粹之函数.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JS/JS语言精粹之函数.md">
-          <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
+          <provider editor-type-id="MultiMarkdownFxPreviewEditor">
             <state />
           </provider>
-          <provider editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.13445379">
-                <caret line="2" column="81" selection-start-line="2" selection-start-column="81" selection-end-line="2" selection-end-column="81" />
+              <first_editor vertical-scroll-proportion="0.5294118">
+                <caret line="47" column="171" selection-start-line="47" selection-start-column="171" selection-end-line="47" selection-end-column="171" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -364,13 +364,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JS/JS语言精粹之函数.md">
-      <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
       </provider>
-      <provider editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.13445379">
-            <caret line="2" column="81" selection-start-line="2" selection-start-column="81" selection-end-line="2" selection-end-column="81" />
+          <first_editor vertical-scroll-proportion="0.5294118">
+            <caret line="47" column="171" selection-start-line="47" selection-start-column="171" selection-end-line="47" selection-end-column="171" />
             <folding />
           </first_editor>
           <second_editor />
