@@ -39,13 +39,13 @@
       </file>
       <file leaf-file-name="CSS禅意花园之正文布局" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/CSS禅意花园之正文布局">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.0">
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
               <caret line="5" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
+          <provider selected="true" editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
         </entry>
@@ -59,6 +59,22 @@
             <state split_layout="FIRST">
               <first_editor vertical-scroll-proportion="0.26890758">
                 <caret line="4" column="247" selection-start-line="4" selection-start-column="247" selection-end-line="4" selection-end-column="247" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inline-block.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSS/inline-block.md">
+          <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor vertical-scroll-proportion="0.0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -320,14 +336,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/inline-block.md">
+      <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/CSS禅意花园之正文布局">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.0">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="5" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
+      <provider selected="true" editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
     </entry>
