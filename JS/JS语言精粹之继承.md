@@ -10,7 +10,8 @@ Mammal.prototype.get_name=function(){
   return this.name;
 };
 Mammal.prototype.says=function(){
-return this.saying||'';};
+return this.saying||'';
+};
 var Cat=function(name){
  this.name=name;
  this.saying='meow';
