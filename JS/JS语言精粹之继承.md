@@ -3,18 +3,18 @@
 　　《JavaScript语言精粹》第五章是讲继承的，在第一节和第三节提到了伪类和原型,伪类实现继承的方式为  
 ```
 var Mammal=function(name){
- this.name=name;
+  this.name=name;
 };
 
 Mammal.prototype.get_name=function(){
   return this.name;
 };
 Mammal.prototype.says=function(){
-return this.saying||'';
+  return this.saying||'';
 };
 var Cat=function(name){
- this.name=name;
- this.saying='meow';
+  this.name=name;
+  this.saying='meow';
 };
 Cat.prototype=new Mammal();
 ```
@@ -34,12 +34,12 @@ Cat.prototype=new Mammal();
 　　这个beget方法创建一个使用原对象作为其原型的新对象。在ECMAScript5中的Object.create()应该与这个方法作用相同。在高程第六章中，原型继承直接用的是Object.create();
 ```
 var myMamml={
-name:'Herb the Mammal',
-get_name:function(){
- return this.name;
+  name:'Herb the Mammal',
+  get_name:function(){
+   return this.name;
 },
 says:function(){
-return this.saying||'';
+  return this.saying||'';
  }
 };
 var myCat=Object.beget(myMammal);
@@ -73,7 +73,8 @@ var methodical=function(){
 };
 that.methodical=methodical;
 ```
-　　分两步定义methodical的好处是，如果其他方法想要调用methodical，它们可以直接调用methodical（）而不是that。methodical()。如果该实例被破坏或
-篡改，甚至that。methodical被替换掉了，调用methodical的方法将同样会继续工作，因此它们私有的methodical不受该实例修改的影响。函数化模式有很大的灵活性，其不仅不像伪类模式那样需要很多
-功夫，且能够得到更好的封装和信息隐藏，以及访问父类方法的能力。
+　　分两步定义methodical的好处是，如果其他方法想要调用methodical，它们可以直接调用methodical（）而不是that.methodical()。如果该实例被破坏或
+篡改，甚至that.methodical被替换掉了，调用methodical的方法将同样会继续工作，因此它们私有的methodical不受该实例修改的影响。  
+　　在以上几种继承方法中，函数化模式有很大的灵活性，其不仅不像伪类模式那样需要很多功夫，且能够得到更好的封装和信息隐藏，以及访问父类方法的能力。
+　　
 　　
