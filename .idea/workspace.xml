@@ -60,7 +60,7 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.58104736">
+              <first_editor vertical-scroll-proportion="0.64089775">
                 <caret line="72" column="2" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="2" />
                 <folding />
               </first_editor>
@@ -109,8 +109,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-49" />
-    <option name="y" value="86" />
+    <option name="x" value="-19" />
+    <option name="y" value="172" />
     <option name="width" value="1361" />
     <option name="height" value="788" />
   </component>
@@ -256,7 +256,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-49" y="86" width="1361" height="788" extended-state="0" />
+    <frame x="-19" y="172" width="1361" height="788" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12936804" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -818,7 +818,7 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.58104736">
+          <first_editor vertical-scroll-proportion="0.64089775">
             <caret line="72" column="2" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="2" />
             <folding />
           </first_editor>
