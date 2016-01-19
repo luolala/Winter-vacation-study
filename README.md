@@ -23,3 +23,7 @@
 ## 代码练习
 ----
 完成重构任务；时间：2小时
+##Note
+----
+1 [JS语言精粹之正则](https://github.com/luolala/Winter-vacation-study/blob/master/JS/JS%E8%AF%AD%E8%A8%80%E7%B2%BE%E7%B2%B9%E4%B9%8B%E6%AD%A3%E5%88%99.md)
+  [line-height与vertical-align](https://github.com/luolala/Winter-vacation-study/blob/master/CSS/line-height%20%E4%B8%8Evertical-align.md)
