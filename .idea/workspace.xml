@@ -53,31 +53,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="line-height 与vertical-align" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CSS/line-height 与vertical-align">
+      <file leaf-file-name="line-height 与vertical-align.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/line-height 与vertical-align.md">
           <provider editor-type-id="MultiMarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.059850372">
-                <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="line-height 与vertical-align.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CSS/line-height 与vertical-align.md">
-          <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor vertical-scroll-proportion="0.3416459">
+                <caret line="69" column="112" selection-start-line="69" selection-start-column="112" selection-end-line="69" selection-end-column="112" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -113,6 +97,7 @@
         <option value="$PROJECT_DIR$/JS/JS语言精粹之继承.md" />
         <option value="$PROJECT_DIR$/JS/JS语言精粹之正则.md" />
         <option value="$PROJECT_DIR$/CSS/line-height 与vertical-align" />
+        <option value="$PROJECT_DIR$/CSS/line-height 与vertical-align.md" />
       </list>
     </option>
   </component>
@@ -124,8 +109,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="96" />
-    <option name="y" value="63" />
+    <option name="x" value="73" />
+    <option name="y" value="158" />
     <option name="width" value="1254" />
     <option name="height" value="788" />
   </component>
@@ -271,7 +256,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="96" y="63" width="1254" height="788" extended-state="1" />
+    <frame x="73" y="158" width="1254" height="788" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14054927" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -828,27 +813,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/line-height 与vertical-align.md">
-      <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/line-height 与vertical-align">
       <provider editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.059850372">
-            <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <first_editor vertical-scroll-proportion="0.3416459">
+            <caret line="69" column="112" selection-start-line="69" selection-start-column="112" selection-end-line="69" selection-end-column="112" />
             <folding />
           </first_editor>
           <second_editor />
