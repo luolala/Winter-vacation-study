@@ -27,3 +27,4 @@
 ----
 1 [JS语言精粹之正则](https://github.com/luolala/Winter-vacation-study/blob/master/JS/JS%E8%AF%AD%E8%A8%80%E7%B2%BE%E7%B2%B9%E4%B9%8B%E6%AD%A3%E5%88%99.md)  
   [line-height与vertical-align](https://github.com/luolala/Winter-vacation-study/blob/master/CSS/line-height%20%E4%B8%8Evertical-align.md)
+2 [JS语言精粹之附录-鸡肋篇.md](https://github.com/luolala/Winter-vacation-study/blob/master/JS/JS%E8%AF%AD%E8%A8%80%E7%B2%BE%E7%B2%B9%E4%B9%8B%E9%99%84%E5%BD%95-%E9%B8%A1%E8%82%8B%E7%AF%87.md)  
