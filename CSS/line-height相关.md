@@ -6,7 +6,8 @@
 	这是一段测试文字
 </div>
 ```
-　　效果如下图所示：
+　　效果如下图所示：  
+
 ![Alt text](https://raw.githubusercontent.com/luolala/Winter-vacation-study/master/imges/%E5%8D%95%E8%A1%8C%E5%B1%85%E4%B8%AD.png)  
 
 
@@ -19,7 +20,8 @@
 		<span style="font-size:14px;padding:20px;background-color:#999;">这是一段测试文字</span>
 	</div>
 ```
-结果如下图
+结果如下图  
+
 ![Alt text](https://raw.githubusercontent.com/luolala/Winter-vacation-study/master/imges/padding%E5%AF%B9%E8%A1%8C%E9%AB%98%E7%9A%84%E5%BD%B1%E5%93%8D.png)  
 
 　　另外，在[W3School](http://www.w3school.com.cn/cssref/pr_dim_line-height.asp)对于`line-height`有这样一段描述
@@ -34,7 +36,8 @@
 		</p>
 	</div>
 ```
-　　得到的结果如下图：
+　　得到的结果如下图：  
+
 ![Alt text](https://raw.githubusercontent.com/luolala/Winter-vacation-study/master/imges/line-height-150%25.png)  
 　
 　　在父元素的`line-height`为百分数时，子元素在继承的方法是：将父元素的`line-height`与`font-size`相乘，子元素继承的是
@@ -47,7 +50,8 @@
 		</p>
 	</div>
 ```
-　　得到的结果如下图
+　　得到的结果如下图  
+
 ![Alt text](https://raw.githubusercontent.com/luolala/Winter-vacation-study/master/imges/line-height-1.5.png)  
 
 　　与`line-height:150%`不同的是，在将此属性设置为倍数的形式时，子元素只会继承这个'缩放因子'，也就是说子元素会根据这个因子来计算
