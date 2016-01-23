@@ -21,15 +21,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider editor-type-id="MultiMarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="-0.38129497">
-                <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+              <first_editor vertical-scroll-proportion="0.83157897">
+                <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="148" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -37,14 +37,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="本周总结.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="本周总结.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/本周总结.md">
           <provider editor-type-id="MultiMarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="-1.2236422">
+              <first_editor vertical-scroll-proportion="-0.7635783">
                 <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
                 <folding />
               </first_editor>
@@ -98,10 +98,10 @@
         <option value="$PROJECT_DIR$/JS/JS语言精粹之正则.md" />
         <option value="$PROJECT_DIR$/CSS/line-height 与vertical-align" />
         <option value="$PROJECT_DIR$/CSS/line-height 与vertical-align.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/JS/JS语言精粹之鸡肋篇" />
         <option value="$PROJECT_DIR$/CSS/精通CSS之基础知识.md" />
         <option value="$PROJECT_DIR$/本周总结.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -113,8 +113,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-30" />
-    <option name="y" value="28" />
+    <option name="x" value="51" />
+    <option name="y" value="122" />
     <option name="width" value="1343" />
     <option name="height" value="632" />
   </component>
@@ -232,7 +232,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-30" y="28" width="1343" height="632" extended-state="1" />
+    <frame x="51" y="122" width="1343" height="632" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12660135" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -796,20 +796,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="-0.38129497">
-            <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../study/README.md">
       <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
@@ -838,8 +824,22 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="-1.2236422">
+          <first_editor vertical-scroll-proportion="-0.7635783">
             <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.83157897">
+            <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="148" />
             <folding />
           </first_editor>
           <second_editor />
