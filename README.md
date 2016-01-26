@@ -23,20 +23,6 @@
 ## 代码练习
 ----
 完成重构任务；时间：2小时
-##小结
-[1.23一周小结](https://github.com/luolala/Winter-vacation-study/blob/master/%E6%9C%AC%E5%91%A8%E6%80%BB%E7%BB%93.md)
-##Note
-----
-* JS  
-[JavaScript 语言精粹之对象](https://github.com/luolala/Winter-vacation-study/blob/master/JS/JS%E8%AF%AD%E8%A8%80%E7%B2%BE%E7%B2%B9%E4%B9%8B%E5%AF%B9%E8%B1%A1.md)  
-[JS语言精粹之函数](https://github.com/luolala/Winter-vacation-study/blob/master/JS/JS%E8%AF%AD%E8%A8%80%E7%B2%BE%E7%B2%B9%E4%B9%8B%E5%87%BD%E6%95%B0.md)  
-[JavaScript 语言精粹之数组](https://github.com/luolala/Winter-vacation-study/blob/master/JS/JS%E8%AF%AD%E8%A8%80%E7%B2%BE%E7%B2%B9%E4%B9%8B%E6%95%B0%E7%BB%84.md)  
-[JS语言精粹之继承](https://github.com/luolala/Winter-vacation-study/blob/master/JS/JS%E8%AF%AD%E8%A8%80%E7%B2%BE%E7%B2%B9%E4%B9%8B%E7%BB%A7%E6%89%BF.md)  
-[JS语言精粹之正则](https://github.com/luolala/Winter-vacation-study/blob/master/JS/JS%E8%AF%AD%E8%A8%80%E7%B2%BE%E7%B2%B9%E4%B9%8B%E6%AD%A3%E5%88%99.md)  
-[JS语言精粹之附录-鸡肋篇](https://github.com/luolala/Winter-vacation-study/blob/master/JS/JS%E8%AF%AD%E8%A8%80%E7%B2%BE%E7%B2%B9%E4%B9%8B%E9%99%84%E5%BD%95-%E9%B8%A1%E8%82%8B%E7%AF%87.md)  
-* css  
-[CSS禅意花园之设计](https://github.com/luolala/Winter-vacation-study/blob/master/CSS/CSS%E7%A6%85%E6%84%8F%E8%8A%B1%E5%9B%AD%E4%B9%8B%E8%AE%BE%E8%AE%A1.md)  
-[inline-block](https://github.com/luolala/Winter-vacation-study/blob/master/CSS/inline-block.md)  
-[line-height与vertical-align](https://github.com/luolala/Winter-vacation-study/blob/master/CSS/line-height%20%E4%B8%8Evertical-align.md)  
-[line-height相关](https://github.com/luolala/Winter-vacation-study/blob/master/CSS/line-height%E7%9B%B8%E5%85%B3.md)  
-[精通CSS之基础知识](https://github.com/luolala/Winter-vacation-study/blob/master/CSS/%E7%B2%BE%E9%80%9ACSS%E4%B9%8B%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
+
+##索引
+[索引页](https://github.com/luolala/Winter-vacation-study/blob/master/%E7%B4%A2%E5%BC%95%E9%A1%B5.md)
