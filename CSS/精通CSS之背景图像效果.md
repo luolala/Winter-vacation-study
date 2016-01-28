@@ -70,8 +70,8 @@ div {
 <div class="transparent_class">FOR TEST</div>
 ```
 　　可以得到下面的结果：　
-![透度]()  
-　　　由上图可以看出利用这种方法能够实现不透明度，但是有一个问题是：如果父元素应用了这个透明度之后，则子元素也会继承它。如果我们只想拥有有透明效果的背景，而其包含的文字等不具备这个效果，那么可以利用rgba()来实现。  
+![透度](https://raw.githubusercontent.com/luolala/Winter-vacation-study/master/imges/%E9%80%8F%E6%98%8E%E5%BA%A61.png)  
+  　　由上图可以看出利用这种方法能够实现不透明度，但是有一个问题是：如果父元素应用了这个透明度之后，则子元素也会继承它。如果我们只想拥有有透明效果的背景，而其包含的文字等不具备这个效果，那么可以利用rgba()来实现。  
 ```css
 .no-transparent{
 　　　　　　width: 100px;
@@ -91,7 +91,7 @@ div {
 <div class="no-transparent">FOR TEST</div>
 <div class="transparent_class">FOR TEST</div>
 ```
-![透明度](https://raw.githubusercontent.com/luolala/Winter-vacation-study/master/imges/%E9%80%8F%E6%98%8E%E5%BA%A62.png)
+![透明度](https://raw.githubusercontent.com/luolala/Winter-vacation-study/master/imges/%E9%80%8F%E6%98%8E%E5%BA%A62.png)  
 　　上面用到的一种方法是[CSS3 RGBA](http://www.w3cplus.com/content/css3-rgba)中的方法“fallback color”,在不支持rgba()的浏览器中给它一个颜色。这样的话在IE 8下的是没有透明度效果的，如果想要在所有的浏览器中达到同样的效果，可以利用两个`div`来实现。
 ####PNG透明度  
 　　PNG文件格式最大的优点之一是它支持alpha透明度，但是IE 6不直接支持PNG透明度，而IE 7 和IE 8支持。对于IE的老版本，有两种解决方法。  
