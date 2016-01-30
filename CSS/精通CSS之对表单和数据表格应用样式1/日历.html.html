@@ -4,55 +4,65 @@
 	<meta charset="UTF-8">
 	<title></title>
 	<style>
-		.cal{
+		.cal {
 			border-collapse: separate;
 			border-spacing: 0;
 			text-align: center;
 			color: #333;
 		}
-		.cal th,.cal td{
+
+		.cal th, .cal td {
 			margin: 0;
 			padding: 0;
 		}
-		.cal caption{
+
+		.cal caption {
 			font-size: 1.25em;
 			padding-top: 0.692em;
 			padding-bottom: 0.692em;
 			background-color: #d4dde6;
 		}
-		.cal caption[rel="prev"]{
+
+		.cal caption[rel="prev"] {
 			float: left;
 			margin-left: 0.2em;
 		}
-		.cal caption[rel="next"]{
+
+		.cal caption[rel="next"] {
 			float: right;
 			margin-right: 0.2em;
 		}
-		.cal caption a:link,.cal caption a:visited{
+
+		.cal caption a:link, .cal caption a:visited {
 			text-decoration: none;
 			color: #333;
 			padding: 0 0.2em;
 		}
-		.cal caption a:hover,.cal caption a:active,.cal caption a:focus{
+
+		.cal caption a:hover, .cal caption a:active, .cal caption a:focus {
 			background-color: #6dbab7;
 		}
-		.cal thead th{
+
+		.cal thead th {
 			background-color: #d4dde6;
 			border-bottom: 1px solid #a9bacb;
 			font-size: 0.875em;
 		}
-		.cal tbody{
+
+		.cal tbody {
 			color: #a4a4a4;
 			text-shadow: 1px 1px 1px white;
 			background-color: #d0d9e2;
 		}
-		.cal tbody td{
+
+		.cal tbody td {
 			border-top: 1px solid #e0e0e1;
 			border-right: 1px solid #9f9fa1;
-			border-bottom: 1px solid #acacad ;
+			border-bottom: 1px solid #acacad;
 			border-left: 1px solid #dfdfe0;
 		}
-		.cal tbody a{
+
+		.cal tbody a {
 			display: block;
 			text-decoration: none;
 			color: #333;
@@ -60,6 +70,7 @@
 			font-weight: bold;
 			padding: 0.385em 0.692em 0.308em 0.692em;
 		}
+
 		.cal tbody a:hover,
 		.cal tbody a:focus,
 		.cal tbody a:active,
@@ -67,17 +78,18 @@
 		.cal tbody .selected a:visited,
 		.cal tbody .selected a:hover,
 		.cal tbody .selected a:focus,
-		.cal tbody .selected a:active{
+		.cal tbody .selected a:active {
 			background-color: #6d8ab7;
 			color: #fff;
 			text-shadow: 1px 1px 2px #22456b;
 		}
+
 		.cal tbody td:hover,
-		.cal tbody .selected{
+		.cal tbody .selected {
 			border-top: 1px solid #2a3647;
 			border-right: 1px solid #465977;
 			border-top: 1px solid #576e92;
-			border-top: 1px solid #466080;/*兼容IE6*/
+			border-top: 1px solid #466080; /*兼容IE6*/
 		}
 	</style>
 </head>
