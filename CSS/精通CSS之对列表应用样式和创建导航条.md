@@ -4,7 +4,7 @@
 知识。
 ###基本的垂直导航条  
 　　基本的垂直导航条的代码如下：  
-```
+```css
 　　　　ul{
 	        padding: 0;
 			margin: 0;
@@ -55,11 +55,15 @@
 添加类。但是，对于主导航不改变的中等规模的站点，往往通过外部文件包含导航。即：在每个页面的主体元素中添加一个ID或类名，从而指出
 用户当前在哪个页面或部分中。然后，在导航列表中的每个项中添加一个对应的ID或类名。可以使用主体的ID和列表ID/类的唯一
 组合在站点导航中突出显示当前部分或页面。例如
-```<body id="home">
+
+```html
+ <body id="home">
+ 
 ```  
 ###水平导航栏
+
 　　可以利用有序列表来实现水平导航栏，例如
-```
+```css
 	     ol{
     			margin: 0;
     			padding: 0;
@@ -102,7 +106,7 @@
 　　可以得到如下的效果：  
 ![水平导航](https://raw.githubusercontent.com/luolala/Winter-vacation-study/master/imges/%E6%B0%B4%E5%B9%B3%E5%AF%BC%E8%88%AA.png)  
 　　如果想要得到图形更加丰富的导航栏，则还可以  
-```
+```css
  　　　.nav{
 			padding: 0;
 			margin: 0;
