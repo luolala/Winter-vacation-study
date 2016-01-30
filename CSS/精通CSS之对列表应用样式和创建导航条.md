@@ -106,6 +106,7 @@
 　　可以得到如下的效果：  
 ![水平导航](https://raw.githubusercontent.com/luolala/Winter-vacation-study/master/imges/%E6%B0%B4%E5%B9%B3%E5%AF%BC%E8%88%AA.png)  
 　　如果想要得到图形更加丰富的导航栏，则还可以  
+
 ```css
  　　　.nav{
 			padding: 0;
@@ -141,8 +142,9 @@
         		<li><a href="news.htm">News</a> </li>
         		<li><a class="last" href="contact.htm">Contact</a> </li>
         </ul>
-```  　　
-　　可以得到下图
+```
+　　可以得到下图  
+
 ![水平导航2](https://raw.githubusercontent.com/luolala/Winter-vacation-study/master/imges/%E6%B0%B4%E5%B9%B3%E5%AF%BC%E8%88%AA2.png)
 
 ###下拉菜单  
@@ -214,7 +216,7 @@
 JavaScript或.htc行为文件启用这个功能。
 ###图像映射　　
 　　书中提到的映射方法是将对锚链接进行绝对定位，定位到相应的图片上，形成热点。链接文本使用一个大的负数作为文本缩进量，然后让它们从屏幕上消失。这种办法感觉有点太麻烦了。。。
-之前在[W3shool](http://www.w3school.com.cn/tiy/t.asp?f=html_areamap)上看到的方法是利用[http://www.w3school.com.cn/tags/tag_area.asp](http://www.w3school.com.cn/tags/tag_area.asp)实现的。感觉这种方法更简单
+之前在[W3shool](http://www.w3school.com.cn/tiy/t.asp?f=html_areamap)上看到的方法是利用[area标签](http://www.w3school.com.cn/tags/tag_area.asp)实现的。感觉这种方法更简单
 一些。
 
 　　　
