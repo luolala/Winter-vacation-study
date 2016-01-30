@@ -37,15 +37,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="索引页.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="索引页.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/索引页.md">
           <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.0">
-                <caret line="96" column="192" selection-start-line="96" selection-start-column="192" selection-end-line="96" selection-end-column="192" />
+              <first_editor vertical-scroll-proportion="0.3495935">
+                <caret line="110" column="397" selection-start-line="110" selection-start-column="397" selection-end-line="110" selection-end-column="397" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -76,8 +76,8 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.06504065">
-                <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+              <first_editor vertical-scroll-proportion="0.5777126">
+                <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -85,10 +85,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="日历.html.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="日历.html.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/精通CSS之对表单和数据表格应用样式1/日历.html.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.0408163">
+            <state vertical-scroll-proportion="48.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -155,10 +155,10 @@
         <option value="$PROJECT_DIR$/精通CSS之可视化格式模型.md" />
         <option value="$PROJECT_DIR$/CSS/精通CSS之背景图像效果.md" />
         <option value="$PROJECT_DIR$/CSS/精通CSS之对链接应用样式.md" />
-        <option value="$PROJECT_DIR$/索引页.md" />
         <option value="$PROJECT_DIR$/精通CSS之对列表应用样式和创建导航条.md" />
-        <option value="$PROJECT_DIR$/CSS/精通CSS之对表单和数据表格应用样式1/精通CSS之对表单和数据表格应用样式.md" />
         <option value="$PROJECT_DIR$/CSS/精通CSS之对表单和数据表格应用样式1/日历.html.html" />
+        <option value="$PROJECT_DIR$/CSS/精通CSS之对表单和数据表格应用样式1/精通CSS之对表单和数据表格应用样式.md" />
+        <option value="$PROJECT_DIR$/索引页.md" />
       </list>
     </option>
   </component>
@@ -170,8 +170,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="219" />
-    <option name="y" value="111" />
+    <option name="x" value="-39" />
+    <option name="y" value="188" />
     <option name="width" value="1382" />
     <option name="height" value="664" />
   </component>
@@ -322,7 +322,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="219" y="111" width="1382" height="664" extended-state="1" />
+    <frame x="-39" y="188" width="1382" height="664" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12664714" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -861,20 +861,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/索引页.md">
-      <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.0">
-            <caret line="96" column="192" selection-start-line="96" selection-start-column="192" selection-end-line="96" selection-end-column="192" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://F:/HTML 设计/css函数.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -924,25 +910,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/精通CSS之对表单和数据表格应用样式1/日历.html.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="48.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/精通CSS之对表单和数据表格应用样式1/精通CSS之对表单和数据表格应用样式.md">
       <provider editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.06504065">
-            <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <first_editor vertical-scroll-proportion="0.5777126">
+            <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/精通CSS之对表单和数据表格应用样式1/日历.html.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.0408163">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/索引页.md">
+      <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.3495935">
+            <caret line="110" column="397" selection-start-line="110" selection-start-column="397" selection-end-line="110" selection-end-column="397" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

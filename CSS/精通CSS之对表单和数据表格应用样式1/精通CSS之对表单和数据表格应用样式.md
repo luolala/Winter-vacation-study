@@ -4,12 +4,12 @@
 ###对数据表格应用样式  
 　　在一些博客网站上，在侧栏有时会有日历样式，实现日历样式可以通过表单元素来实现。在表格中，`caption`基本上用作表格的标题，在本书的
 示例中，用`caption`显示用户当前看到的月份。`summary`属性可以应用于表格标签，用来描述表格的内容。与图像的`alt`文本相似，`summary`应该总结表格中
-的数据，编写得出色的`summary`可以减少用户阅读表格内容的需要。　　
-  　　利用`thead`、`tbody`、`tfoot`将表格划分为几个逻辑部分。在一个表格中只能使用一个'thead'和`tfoot`元素，但是可以使用多个`tbody`元素将
+的数据，编写得出色的`summary`可以减少用户阅读表格内容的需要。  
+　　利用`thead`、`tbody`、`tfoot`将表格划分为几个逻辑部分。在一个表格中只能使用一个'thead'和`tfoot`元素，但是可以使用多个`tbody`元素将
 复杂的表格划分为更容易管理的几部分。行标题和列标题应该使用`th`而不是`td`标记，如果某些内容即是标题又是数据，那么它们仍然应该使用`td`。表格
-标题可以设置值为`row`或`col`的scope属性，定义它们是行标题还是列标题。　　
-　　虽然利用`tr`元素能够对整行应用样式，但是很难对整列应用样式。W3C引入了`colgroup`和`col`元素。`colgroup`能够使用`col`元素对一个或多个列定义和分组。　　
-　　利用表格写成的[日历](https://github.com/luolala/Winter-vacation-study/tree/master/CSS/%E7%B2%BE%E9%80%9ACSS%E4%B9%8B%E5%AF%B9%E8%A1%A8%E5%8D%95%E5%92%8C%E6%95%B0%E6%8D%AE%E8%A1%A8%E6%A0%BC%E5%BA%94%E7%94%A8%E6%A0%B7%E5%BC%8F1)效果如下图：  
+标题可以设置值为`row`或`col`的scope属性，定义它们是行标题还是列标题。  
+　　虽然利用`tr`元素能够对整行应用样式，但是很难对整列应用样式。W3C引入了`colgroup`和`col`元素。`colgroup`能够使用`col`元素对一个或多个列定义和分组。  
+　　利用表格写成的[日历](https://github.com/luolala/Winter-vacation-study/blob/master/CSS/%E7%B2%BE%E9%80%9ACSS%E4%B9%8B%E5%AF%B9%E8%A1%A8%E5%8D%95%E5%92%8C%E6%95%B0%E6%8D%AE%E8%A1%A8%E6%A0%BC%E5%BA%94%E7%94%A8%E6%A0%B7%E5%BC%8F1/%E6%97%A5%E5%8E%86.html.html)效果如下图：  
 ![日历](https://raw.githubusercontent.com/luolala/Winter-vacation-study/master/imges/%E6%97%A5%E5%8E%86.png)  
 ###表单布局  
 ####简单表单布局  
@@ -27,6 +27,6 @@
 <input name="email" id="email" type="text"/>
 ```
 　　在表单输入控件和标签之间创建关联需要id属性，而将表单数据发送回服务器需要name属性。id和name不必相同，但是为了保持一致，应尽可能
-让它们相同。
+让它们相同。  
 　　对于表单布局，之前练习得比较少，还需要进行进一步加强，明天应主要对两种表单布局进行练习。
 　
