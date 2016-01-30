@@ -141,11 +141,13 @@
         		<li><a href="news.htm">News</a> </li>
         		<li><a class="last" href="contact.htm">Contact</a> </li>
         </ul>
-```　　
+```  　　
 　　可以得到下图
 ![水平导航2](https://raw.githubusercontent.com/luolala/Winter-vacation-study/master/imges/%E6%B0%B4%E5%B9%B3%E5%AF%BC%E8%88%AA2.png)
+
 ###下拉菜单  
 　　可以利用多级列表以及css来设计下拉菜单
+
 ```css
 　　　ul{
    			margin: 0;
