@@ -3,11 +3,11 @@
 　这一周打算学习一下jQuery源码，在慕课网上有一个相关的文字教程，感觉还不错，打算按这个教程来学习。今天看的少一点，主要看的是
 DOM部分遍历祖先的实现。
 ```javascript
- function parent(elem) {
+function parent(elem) {
    var parent = elem.parentNode;
    return parent && parent.nodeType !== 11 ? parent : null;
  }
-```　
+```
 　　parent()方法允许我们能够在DOM树中搜索到这些元素的父级元素，有序的向上匹配元素，并根据匹配的元素创建一个新的jQuery对象。在
 上面的方法中需要注意的是，在返回的时候需要判断`parent.nodeType`是否是'DocumentFragment',在《javaScript语言精粹》中的第385页介绍
 到：DocumentFragment是一种特殊的Node，它作为其他节点的一个临时容器，其创建方式为：
@@ -20,6 +20,7 @@ var frag=document.createDocumentFragment();
 　　DocumentFragment的特殊之处在于它使得一组节点被当作一个节点看待：如果给`appendChild()`、`insertBefore()`、`replaceChild()`
 传递一个`DocumentFragment`,其实是将该文档片段的所有子节点插入到文档中，而非片段本身。(文档片段的子节点从片段移动到文档中，文档片段清空以便重用）。例如倒序排列
 一个节点的子节点。
+
 ```javascript
 //倒序排列节点n的子节点
 function reverse(n){
