@@ -11,11 +11,12 @@ DOM部分遍历祖先的实现。
 　　parent()方法允许我们能够在DOM树中搜索到这些元素的父级元素，有序的向上匹配元素，并根据匹配的元素创建一个新的jQuery对象。在
 上面的方法中需要注意的是，在返回的时候需要判断`parent.nodeType`是否是'DocumentFragment',在《javaScript语言精粹》中的第385页介绍
 到：DocumentFragment是一种特殊的Node，它作为其他节点的一个临时容器，其创建方式为：
+
 ```javascript
 var frag=document.createDocumentFragment();
 ```
 　　它的`parentNode`总是为`null`,但类似Element,它可以有任意多的子节点，可以用appendChild()、insertBefore()等方法来
-操作它们。
+操作它们。  
 　　DocumentFragment的特殊之处在于它使得一组节点被当作一个节点看待：如果给`appendChild()`、`insertBefore()`、`replaceChild()`
 传递一个`DocumentFragment`,其实是将该文档片段的所有子节点插入到文档中，而非片段本身。(文档片段的子节点从片段移动到文档中，文档片段清空以便重用）。例如倒序排列
 一个节点的子节点。
@@ -41,7 +42,7 @@ function parents(elem){
 }
 ```
 　　`parents()`方法与`parent()`方法不同的地方是获得当前匹配元素集合中每个元素的祖先元素。另一个相关的方法是`parentUntil()`
-```
+```javascript
 function parentsUntil(elem, filter) {
   var matched = [],
     until,
