@@ -214,6 +214,4 @@ Array.prototype.filter=function(fun,thisArg){
    return arr;
 };
 ```
-　　以上是JavaScript中的几个原生方法，在不兼容IE 8及以下的浏览器时，可知`map``filter`可以减少代码量，避免传统的循环方式。
-
-对于`call``apply`以及`bind`还要多多理解，把握其用法。
+　　以上是JavaScript中的几个原生方法，在不兼容IE 8及以下的浏览器时，可知`map``filter`可以减少代码量，避免传统的循环方式。对于`call``apply`以及`bind`还要多多理解，把握其用法。
